@@ -1,0 +1,9 @@
+{
+	"name": "dflear",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "44f10053-5e1b-4e4e-a3ac-5b1fe362c409",
+		"tenantId": "11768dc4-484e-4a0b-919f-daedc96032eb"
+	}
+}
